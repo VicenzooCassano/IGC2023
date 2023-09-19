@@ -1,5 +1,13 @@
 # IGC2023
 
-# INSTALL SC ?
-# Lu Kan Dah Taukan Cara Installnya
-# Kalo Belum Tau Cek YT ^^
+# git clone https://github.com/VicenzooCassano/IGC2023.git
+# cd IGC2023
+# python ANJASv13.py
+
+# HARGA LICENSI ?
+# wa.me/6285600744107
+
+# HARGA LICENSI PROMO 5%
+# SC SETIAP MINGGU UPDATE
+# GACOR GA KANG? JELAS
+# SUPPORT ALL KARTU PROVIDER & WIFI ( JANGAN SERING GUNAIN WIFI )
